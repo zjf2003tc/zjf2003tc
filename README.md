@@ -4,9 +4,10 @@
 
 * Interested in the intersection between data science & education, especially related to EdTech products that focus on equity
 
-* Enjoys working on model design, implementation, and interpretation and thinking about the implications of data insights.
+* Enjoys working on model design, implementation, and interpretation and thinking about the implications of data insights
 
-* LinkedIn: https://www.linkedin.com/in/zacharyjfriedman/
+* [LinkedIn](https://www.linkedin.com/in/zacharyjfriedman/)
+
 * Email: zjf2003@tc.columbia.edu
 
 <!---
