@@ -6,6 +6,7 @@
 
 * Enjoys working on model design, implementation, and interpretation and thinking about the implications of data insights.
 
+* LinkedIn: https://www.linkedin.com/in/zacharyjfriedman/
 * Email: zjf2003@tc.columbia.edu
 
 <!---
