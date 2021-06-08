@@ -1,8 +1,8 @@
 * Master's Student studying Learning Analytics at Teachers College, Columbia University.
 
-* Interested in the intersection between data science and education, especially as it relates to EdTech products that have a focus on improving equity. 
+* Interested in the intersection between data science and education, especially related to EdTech products that have a focus on improving equity. 
 
-* Enjoys working on model design, implementation, and interpretation and thinking about the implications of data insights and how they can be applied in an organization.
+* Enjoys working on model design, implementation, and interpretation and thinking about the implications of data insights.
 
 * Email: zjf2003@tc.columbia.edu
 
