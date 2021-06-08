@@ -1,5 +1,3 @@
-* Zach Friedman. 
-
 * Master's Student studying Learning Analytics at Teachers College, Columbia University.
 
 * Interested in the intersection between data science and education, especially as it relates to EdTech products that have a focus on improving equity. 
