@@ -1,3 +1,5 @@
+### About
+
 * Master's student studying Learning Analytics at Teachers College, Columbia University (Graduation: August, 2021)
 
 * Analytics Intern at [ClassLink](https://www.classlink.com/)
@@ -5,6 +7,8 @@
 * Interested in the intersection between data science & education, especially related to EdTech products that focus on equity
 
 * Enjoys working on model design, implementation, and interpretation and thinking about the implications of data insights
+
+### Contact
 
 * [LinkedIn](https://www.linkedin.com/in/zacharyjfriedman/)
 
