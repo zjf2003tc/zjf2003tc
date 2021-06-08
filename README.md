@@ -1,4 +1,4 @@
-* Master's Student studying Learning Analytics at Teachers College, Columbia University (Graduation: August, 2021)
+* Master's student studying Learning Analytics at Teachers College, Columbia University (Graduation: August, 2021)
 
 * Analytics Intern at [ClassLink](https://www.classlink.com/)
 
