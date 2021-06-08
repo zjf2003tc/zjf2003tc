@@ -1,6 +1,8 @@
-* Master's Student studying Learning Analytics at Teachers College, Columbia University.
+* Master's Student studying Learning Analytics at Teachers College, Columbia University (Graduation: August, 2021)
 
-* Interested in the intersection between data science and education, especially related to EdTech products that focus on improving equity. 
+* Analytics Intern at [ClassLink](https://www.classlink.com/)
+
+* Interested in the intersection between data science and education, especially related to EdTech products that focus on improving equity
 
 * Enjoys working on model design, implementation, and interpretation and thinking about the implications of data insights.
 
